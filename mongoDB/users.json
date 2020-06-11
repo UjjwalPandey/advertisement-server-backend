@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5ee1d641494de89674d47046"
+  },
+  "gender": "M",
+  "location": "India",
+  "interest": "Sports",
+  "user_id": 1001
+},{
+  "_id": {
+    "$oid": "5ee1d737aa27a12436430e66"
+  },
+  "gender": "F",
+  "location": "Brazil",
+  "interest": "Sports",
+  "user_id": 1002
+},{
+  "_id": {
+    "$oid": "5ee1d766aa27a12436430e67"
+  },
+  "gender": "M",
+  "location": "Russia",
+  "interest": "Technology",
+  "user_id": 1003
+},{
+  "_id": {
+    "$oid": "5ee1d78faa27a12436430e68"
+  },
+  "gender": "F",
+  "location": "USA",
+  "interest": "Movies",
+  "user_id": 1004
+},{
+  "_id": {
+    "$oid": "5ee1d7aaaa27a12436430e69"
+  },
+  "gender": "M",
+  "location": "India",
+  "interest": "Politics",
+  "user_id": 1005
+},{
+  "_id": {
+    "$oid": "5ee1d7dcaa27a12436430e6a"
+  },
+  "gender": "F",
+  "location": "Brazil",
+  "interest": "Technology",
+  "user_id": 1006
+},{
+  "_id": {
+    "$oid": "5ee1d80eaa27a12436430e6b"
+  },
+  "gender": "F",
+  "location": "USA",
+  "interest": "Politics",
+  "user_id": 1007
+},{
+  "_id": {
+    "$oid": "5ee1d833aa27a12436430e6c"
+  },
+  "gender": "M",
+  "location": "India",
+  "interest": "Technology",
+  "user_id": 1008
+}]

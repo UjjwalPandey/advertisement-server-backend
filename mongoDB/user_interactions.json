@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5ee208baa70fac41dd53e255"
+  },
+  "createdAt": {
+    "$date": "2020-06-11T10:34:34.214Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-11T10:34:34.214Z"
+  },
+  "__v": 0,
+  "user_id": 1001,
+  "advertisement_id": 1004,
+  "action_type": "click"
+},{
+  "_id": {
+    "$oid": "5ee20923a70fac41dd53e256"
+  },
+  "createdAt": {
+    "$date": "2020-06-11T10:36:19.159Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-11T10:36:19.159Z"
+  },
+  "__v": 0,
+  "user_id": 1002,
+  "advertisement_id": 1005,
+  "action_type": "loggedIn"
+},{
+  "_id": {
+    "$oid": "5ee210e06c463546fd6e2a70"
+  },
+  "user_id": 1009,
+  "advertisement_id": 1024,
+  "action_type": "click",
+  "createdAt": {
+    "$date": "2020-06-11T11:09:20.330Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-11T11:09:20.330Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee27223214f646b06dbbc91"
+  },
+  "user_id": 1001,
+  "advertisement_id": 1004,
+  "action_type": "views",
+  "createdAt": {
+    "$date": "2020-06-11T18:04:19.765Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-11T18:04:19.765Z"
+  },
+  "__v": 0
+}]

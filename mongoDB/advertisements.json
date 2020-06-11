@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5ee1d855494de89674d47048"
+  },
+  "category": "Sports",
+  "external_website": "https://www.espn.in/cricket/scores",
+  "banner_filepath": "/home/usr/res/sports1.jpg",
+  "target_gender": "M",
+  "target_location": "Global",
+  "ad_id": 1001
+},{
+  "_id": {
+    "$oid": "5ee1daf8aa27a12436430e6d"
+  },
+  "category": "Politics",
+  "external_website": "https://www.ndtv.com",
+  "banner_filepath": "/home/usr/res/politics1.jpg",
+  "target_gender": "MF",
+  "target_location": "India",
+  "ad_id": 1002
+},{
+  "_id": {
+    "$oid": "5ee1db1daa27a12436430e6e"
+  },
+  "category": "Politics",
+  "external_website": "https://www.bbc.com",
+  "banner_filepath": "/home/usr/res/politics2.jpg",
+  "target_gender": "MF",
+  "target_location": "Global",
+  "ad_id": 1003
+},{
+  "_id": {
+    "$oid": "5ee1db47aa27a12436430e6f"
+  },
+  "category": "Sports",
+  "external_website": "https://www.espn.com/cricket/scores",
+  "banner_filepath": "/home/usr/res/sports2.jpg",
+  "target_gender": "MF",
+  "target_location": "India",
+  "ad_id": 1004
+},{
+  "_id": {
+    "$oid": "5ee1db7aaa27a12436430e70"
+  },
+  "category": "Technology",
+  "external_website": "https://www.technical-guruji.com",
+  "banner_filepath": "/home/usr/res/technology1.jpg",
+  "target_gender": "MF",
+  "target_location": "Global",
+  "ad_id": 1005
+},{
+  "_id": {
+    "$oid": "5ee268feaa27a12436430e71"
+  },
+  "category": "Sports",
+  "external_website": "https://www.female-espn.com/cricket/scores",
+  "banner_filepath": "/home/usr/res/sports3.jpg",
+  "target_gender": "F",
+  "target_location": "Brazil",
+  "ad_id": 1006
+},{
+  "_id": {
+    "$oid": "5ee26927aa27a12436430e72"
+  },
+  "category": "Sports",
+  "external_website": "https://www.female-espn.com/footbalscores",
+  "banner_filepath": "/home/usr/res/sports4.jpg",
+  "target_gender": "F",
+  "target_location": "Global",
+  "ad_id": 1007
+},{
+  "_id": {
+    "$oid": "5ee2736eaa27a12436430e73"
+  },
+  "category": "Sports",
+  "external_website": "https://www.female-espn.com/footbalscores",
+  "banner_filepath": "/home/usr/res/sports5.jpg",
+  "target_gender": "MF",
+  "target_location": "Global",
+  "ad_id": 1008
+}]

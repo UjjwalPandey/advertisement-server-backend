@@ -1,13 +1,13 @@
 const User = require('../models/users.model.js');
 const Advertisements = require('../models/advertisements.model.js');
-
+var numberOfAdvertisements = 10; // Setting the maximum numbers of Advertisements to be sent
 
 // Returns advertisement lists in form of JSON.  
 exports.getAdvertisementList = (req, res) => {
     User.find({ user_id: req.body.user_id })
         .then(user => {
             // Taking user details and returning the targeted advertisement list
-            Advertisements.find(getQuery(user))
+            Advertisements.find(getQuery(user)).limit(numberOfAdvertisements)
                 .then(advertisements => {
                     res.send(advertisements);
                 }).catch(err => {
