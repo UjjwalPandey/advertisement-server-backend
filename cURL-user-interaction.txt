@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" --request POST --data '{"user_id":"1001","advertisement_id":"1004", "action_type":"views"}' http://localhost:3000/api/recordUserInteraction

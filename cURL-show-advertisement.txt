@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" --request POST --data '{"user_id":"1002"}' http://localhost:3000/api/getAdvertisementList
