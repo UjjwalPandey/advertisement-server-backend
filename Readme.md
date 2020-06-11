@@ -24,13 +24,17 @@ You can browse the apis at <http://localhost:3000>
 3. APIs
 
     i)  /api/getAdvertisementList
+    
         cURL:
+
         ``` bash   
             curl --header "Content-Type: application/json" --request POST --data '{"user_id":"1002"}' http://localhost:3000/api/getAdvertisementList
         ```
 
     ii) /api/recordUserInteraction
+        
         cURL:
+        
         ``` bash
             curl --header "Content-Type: application/json" --request POST --data '{"user_id":"1001","advertisement_id":"1004", "action_type":"views"}' http://localhost:3000/api/recordUserInteraction
         ```
