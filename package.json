@@ -1,24 +1,26 @@
 {
-  "name": "lokal-ad-server",
-  "version": "1.0.0",
-  "description": "Ad Server Architecture",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [
-    "Express",
-    "RestAPI",
-    "MongoDB",
-    "Mongoose",
-    "Notes"
-  ],
-  "author": "Ujjwal",
-  "license": "MIT",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.18"
-  }
+    "name": "lokal-ad-server",
+    "version": "1.0.0",
+    "description": "Ad Server Architecture",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "Express",
+        "RestAPI",
+        "MongoDB",
+        "Mongoose",
+        "AdServer"
+    ],
+    "author": "Ujjwal",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.18",
+        "memory-cache": "^0.2.0",
+        "express-rate-limit": "^5.1.3"
+    }
 }
